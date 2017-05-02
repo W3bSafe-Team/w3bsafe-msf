@@ -24,4 +24,6 @@ Ubuntu下使用的话 赋予他执行权限并且在root下使用
 
 chmod +x xx
 
+版权由w3bsafe团队所有  盗版必究. 
+
 
