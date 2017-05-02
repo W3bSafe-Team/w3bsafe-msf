@@ -20,7 +20,7 @@ shell脚本 支持Linux系统 Windows下不支持
 
 W3bSafe Team  url ：www.w3bsafe.cn
 
-Ubuntu下使用的话 富裕他执行权限
+Ubuntu下使用的话 赋予他执行权限并且在root下使用 
 
 chmod +x xx
 
