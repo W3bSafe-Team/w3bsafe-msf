@@ -26,4 +26,6 @@ chmod +x xx
 
 版权由w3bsafe团队所有  盗版必究. 
 
+By xaiJoker 
+
 
